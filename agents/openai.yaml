@@ -1,0 +1,4 @@
+interface:
+  display_name: "SCOPE｜单细胞与空间组学设计"
+  short_description: "单细胞空间组学设计、R/Python工具选择、结果文件与组图规划"
+  default_prompt: "Use $scope to design a problem-driven single-cell and spatial transcriptomics study, including sample groups, R/Python analysis tools, expected result files, visualizations, validation, and a figure storyboard."
